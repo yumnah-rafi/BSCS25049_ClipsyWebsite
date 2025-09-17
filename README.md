@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # BSCS25049_ClipsyWebsite
 # BSCS23099 Product Website
 
@@ -32,3 +33,6 @@ The website is built using **HTML, CSS, and JavaScript** and contains three main
 - **Registration No:** BSCS25049 
 
 ---
+=======
+# BSCS25049_ClipsyWebsite
+>>>>>>> fea0f434d2b297b57e20f966827ca911b1990c84
